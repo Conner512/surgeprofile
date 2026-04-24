@@ -1,61 +1,68 @@
 policy	target	url
-REJECT	rule/adblock/Adblock4limbo_surge.list	https://limbopro.com/Adblock4limbo_surge.list
-AdBlock	rule/adblock/AdBlock.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/AdBlock.list
-Apple	rule/apple/apple_cdn.conf	https://ruleset.skk.moe/List/non_ip/apple_cdn.conf
+AI	rule/ai/Anthropic.list	https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Anthropic/Anthropic.list
+AI	rule/ai/Bing.list	https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bing/Bing.list
+AI	rule/ai/Claude.list	https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list
+AI	rule/ai/Copilot.list	https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Copilot/Copilot.list
+AI	rule/ai/Notion.list	https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Notion/Notion.list
+AI	rule/ai/OpenAI.list	https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/OpenAI/OpenAI.list
+AI	rule/ai/gemini.list	https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/Gemini/Gemini.list
 AI Suite	rule/google/Gemini.list	https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/Gemini/Gemini.list
 AI Suite	rule/google/OpenAI.list	https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/OpenAI/OpenAI.list
-Netflix	rule/media/Netflix.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Netflix.list
-Disney Plus	rule/media/Disney Plus.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Disney%20Plus.list
-YouTube	rule/media/YouTube.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube.list
-YouTube	rule/media/YouTube Music.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube%20Music.list
-Max	rule/media/Max.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Max.list
-Spotify	rule/media/Spotify.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Spotify.list
-Asian TV	rule/media/Bilibili.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Bilibili.list
-Asian TV	rule/media/IQ.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/IQ.list
-Asian TV	rule/media/IQIYI.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/IQIYI.list
-Asian TV	rule/media/Letv.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Letv.list
-Asian TV	rule/media/MOO.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/MOO.list
-Asian TV	rule/media/Netease Music.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Netease%20Music.list
-Asian TV	rule/media/Tencent Video.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Tencent%20Video.list
-Asian TV	rule/media/Youku.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Youku.list
-Asian TV	rule/media/WeTV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/WeTV.list
+AdBlock	rule/adblock/AdBlock.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/AdBlock.list
+Apple	rule/apple/Apple Music.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Apple%20Music.list
+Apple	rule/apple/Apple News.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Apple%20News.list
+Apple	rule/apple/Apple TV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Apple%20TV.list
+Apple	rule/apple/Apple.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Apple.list
+Apple	rule/apple/apple_cdn.conf	https://ruleset.skk.moe/List/non_ip/apple_cdn.conf
 Asian TV	rule/media/Abema TV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Abema%20TV.list
 Asian TV	rule/media/Bahamut.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Bahamut.list
+Asian TV	rule/media/Bilibili.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Bilibili.list
 Asian TV	rule/media/DMM.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/DMM.list
 Asian TV	rule/media/Fox+.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Fox%2B.list
 Asian TV	rule/media/Hulu Japan.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Hulu%20Japan.list
-Asian TV	rule/media/Japonx.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Japonx.list
+Asian TV	rule/media/IQ.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/IQ.list
+Asian TV	rule/media/IQIYI.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/IQIYI.list
 Asian TV	rule/media/JOOX.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/JOOX.list
+Asian TV	rule/media/Japonx.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Japonx.list
 Asian TV	rule/media/KKBOX.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/KKBOX.list
 Asian TV	rule/media/KKTV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/KKTV.list
+Asian TV	rule/media/Letv.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Letv.list
 Asian TV	rule/media/Line TV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Line%20TV.list
-Asian TV	rule/media/myTV SUPER.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/myTV%20SUPER.list
+Asian TV	rule/media/MOO.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/MOO.list
+Asian TV	rule/media/Netease Music.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Netease%20Music.list
 Asian TV	rule/media/Niconico.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Niconico.list
+Asian TV	rule/media/Tencent Video.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Tencent%20Video.list
 Asian TV	rule/media/ViuTV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/ViuTV.list
+Asian TV	rule/media/WeTV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/WeTV.list
+Asian TV	rule/media/Youku.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Youku.list
+Asian TV	rule/media/myTV SUPER.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/myTV%20SUPER.list
+DIRECT	rule/domestic/Special.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Special.list
+Disney Plus	rule/media/Disney Plus.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Disney%20Plus.list
+Domestic	rule/domestic/ASN.China.list	https://testingcf.jsdelivr.net/gh/VirgilClyne/GetSomeFries@main/ruleset/ASN.China.list
+Domestic	rule/domestic/Domestic IPs.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Domestic%20IPs.list
+Domestic	rule/domestic/Domestic.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Domestic.list
 Global TV	rule/media/ABC.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/ABC.list
 Global TV	rule/media/Amazon.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Amazon.list
 Global TV	rule/media/BBC iPlayer.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/BBC%20iPlayer.list
 Global TV	rule/media/DAZN.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/DAZN.list
 Global TV	rule/media/Discovery Plus.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Discovery%20Plus.list
-Global TV	rule/media/encoreTVB.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/encoreTVB.list
 Global TV	rule/media/F1 TV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/F1%20TV.list
 Global TV	rule/media/Fox Now.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Fox%20Now.list
 Global TV	rule/media/Hulu.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Hulu.list
-Global TV	rule/media/Pandora.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Pandora.list
 Global TV	rule/media/PBS.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/PBS.list
+Global TV	rule/media/Pandora.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Pandora.list
 Global TV	rule/media/Pornhub.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Pornhub.list
 Global TV	rule/media/Soundcloud.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Soundcloud.list
-Apple	rule/apple/Apple Music.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Apple%20Music.list
-Apple	rule/apple/Apple News.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Apple%20News.list
-Apple	rule/apple/Apple TV.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Apple%20TV.list
-Apple	rule/apple/Apple.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Apple.list
+Global TV	rule/media/encoreTVB.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/encoreTVB.list
+Max	rule/media/Max.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Max.list
 Microsoft	rule/microsoft/Microsoft.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Microsoft.list
+Netflix	rule/media/Netflix.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Netflix.list
 PayPal	rule/paypal/PayPal.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/PayPal.list
-Speedtest	rule/speedtest/Speedtest.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Speedtest.list
-Telegram	rule/proxy/Telegram.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Telegram.list
 Proxy	rule/proxy/Discord.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Discord.list
 Proxy	rule/proxy/Proxy.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Proxy.list
-Domestic	rule/domestic/Domestic.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Domestic.list
-Domestic	rule/domestic/Domestic IPs.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Domestic%20IPs.list
-Domestic	rule/domestic/ASN.China.list	https://testingcf.jsdelivr.net/gh/VirgilClyne/GetSomeFries@main/ruleset/ASN.China.list
-DIRECT	rule/domestic/Special.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Special.list
+REJECT	rule/adblock/Adblock4limbo_surge.list	https://limbopro.com/Adblock4limbo_surge.list
+Speedtest	rule/speedtest/Speedtest.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Speedtest.list
+Spotify	rule/media/Spotify.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/Spotify.list
+Telegram	rule/proxy/Telegram.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Telegram.list
+YouTube	rule/media/YouTube Music.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube%20Music.list
+YouTube	rule/media/YouTube.list	https://testingcf.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Media/YouTube.list

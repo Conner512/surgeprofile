@@ -8,12 +8,6 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
-# > Duolingo
-USER-AGENT,Duolingo*
-DOMAIN-KEYWORD,duolingo
-DOMAIN-SUFFIX,duolingo.cn
-DOMAIN-SUFFIX,duolingo.com
-
 # > Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
@@ -28,6 +22,11 @@ DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,wr.pvp.net
 DOMAIN-SUFFIX,riotgames.com
 
+# > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
@@ -35,7 +34,11 @@ DOMAIN-SUFFIX,gate.hockeyapp.net
 DOMAIN-SUFFIX,smartmailcloud.com
 
 # > Tesla
-DOMAIN-SUFFIX,tesla.com
+DOMAIN-KEYWORD,tesla
+
+# > WAQI
+DOMAIN,api.waqi.info
+DOMAIN,aqi.aqicn.org
 
 # > Zooba
 USER-AGENT,battleroyale*
@@ -171,7 +174,6 @@ DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,dler.io
-DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,doub.io
@@ -199,6 +201,7 @@ DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedsportal.com
+DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,fiftythree.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flexibits.com
@@ -227,6 +230,8 @@ DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,gmocloud.com
 DOMAIN-SUFFIX,gmodules.com
@@ -335,6 +340,7 @@ DOMAIN-SUFFIX,nextmedia.com
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nih.gov
 DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,notion.so
@@ -395,6 +401,7 @@ DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rileyguide.com
@@ -596,6 +603,7 @@ DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wwitv.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xanga.com
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
@@ -607,6 +615,7 @@ DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahooapis.com
+DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yasni.co.uk
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ycombinator.com
@@ -672,9 +681,12 @@ DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,netmarble.com
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pubnub.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,t.co
+
+DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,toggleable.com
 DOMAIN-SUFFIX,torproject.org

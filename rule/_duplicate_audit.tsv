@@ -1,0 +1,262 @@
+repeat_count	rule	file	line	all_files
+3	DOMAIN,browser-intake-datadoghq.com	rule/ai/Copilot.list	14	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,browser-intake-datadoghq.com	rule/ai/OpenAI.list	11	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,browser-intake-datadoghq.com	rule/google/OpenAI.list	11	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,chat.openai.com.cdn.cloudflare.net	rule/ai/Copilot.list	15	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,chat.openai.com.cdn.cloudflare.net	rule/ai/OpenAI.list	12	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,chat.openai.com.cdn.cloudflare.net	rule/google/OpenAI.list	12	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,openai-api.arkoselabs.com	rule/ai/Copilot.list	22	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,openai-api.arkoselabs.com	rule/ai/OpenAI.list	13	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,openai-api.arkoselabs.com	rule/google/OpenAI.list	13	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,openaicomproductionae4b.blob.core.windows.net	rule/ai/Copilot.list	23	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,openaicomproductionae4b.blob.core.windows.net	rule/ai/OpenAI.list	15	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,openaicomproductionae4b.blob.core.windows.net	rule/google/OpenAI.list	15	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,production-openaicom-storage.azureedge.net	rule/ai/Copilot.list	24	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,production-openaicom-storage.azureedge.net	rule/ai/OpenAI.list	16	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,production-openaicom-storage.azureedge.net	rule/google/OpenAI.list	16	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,static.cloudflareinsights.com	rule/ai/Copilot.list	28	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,static.cloudflareinsights.com	rule/ai/OpenAI.list	17	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN,static.cloudflareinsights.com	rule/google/OpenAI.list	17	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,algolia.net	rule/ai/Copilot.list	31	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,algolia.net	rule/ai/OpenAI.list	19	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,algolia.net	rule/google/OpenAI.list	19	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,auth0.com	rule/ai/Copilot.list	33	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,auth0.com	rule/ai/OpenAI.list	21	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,auth0.com	rule/google/OpenAI.list	21	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,chatgpt.com	rule/ai/Copilot.list	36	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,chatgpt.com	rule/ai/OpenAI.list	22	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,chatgpt.com	rule/google/OpenAI.list	22	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,chatgpt.livekit.cloud	rule/ai/Copilot.list	37	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,chatgpt.livekit.cloud	rule/ai/OpenAI.list	23	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,chatgpt.livekit.cloud	rule/google/OpenAI.list	23	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,client-api.arkoselabs.com	rule/ai/Copilot.list	38	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,client-api.arkoselabs.com	rule/ai/OpenAI.list	24	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,client-api.arkoselabs.com	rule/google/OpenAI.list	24	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,events.statsigapi.net	rule/ai/Copilot.list	40	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,events.statsigapi.net	rule/ai/OpenAI.list	25	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,events.statsigapi.net	rule/google/OpenAI.list	25	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,featuregates.org	rule/ai/Copilot.list	41	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,featuregates.org	rule/ai/OpenAI.list	26	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,featuregates.org	rule/google/OpenAI.list	26	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,host.livekit.cloud	rule/ai/Copilot.list	42	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,host.livekit.cloud	rule/ai/OpenAI.list	27	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,host.livekit.cloud	rule/google/OpenAI.list	27	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,identrust.com	rule/ai/Copilot.list	43	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,identrust.com	rule/ai/OpenAI.list	28	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,identrust.com	rule/google/OpenAI.list	28	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,intercom.io	rule/ai/Copilot.list	44	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,intercom.io	rule/ai/OpenAI.list	29	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,intercom.io	rule/google/OpenAI.list	29	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,intercomcdn.com	rule/ai/Copilot.list	45	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,intercomcdn.com	rule/ai/OpenAI.list	30	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,intercomcdn.com	rule/google/OpenAI.list	30	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,launchdarkly.com	rule/ai/Copilot.list	46	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,launchdarkly.com	rule/ai/OpenAI.list	31	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,launchdarkly.com	rule/google/OpenAI.list	31	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,oaistatic.com	rule/ai/Copilot.list	47	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,oaistatic.com	rule/ai/OpenAI.list	32	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,oaistatic.com	rule/google/OpenAI.list	32	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,oaiusercontent.com	rule/ai/Copilot.list	48	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,oaiusercontent.com	rule/ai/OpenAI.list	33	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,oaiusercontent.com	rule/google/OpenAI.list	33	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,observeit.net	rule/ai/Copilot.list	49	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,observeit.net	rule/ai/OpenAI.list	34	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,observeit.net	rule/google/OpenAI.list	34	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openai.com	rule/ai/Copilot.list	50	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openai.com	rule/ai/OpenAI.list	35	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openai.com	rule/google/OpenAI.list	35	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openaiapi-site.azureedge.net	rule/ai/Copilot.list	51	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openaiapi-site.azureedge.net	rule/ai/OpenAI.list	36	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openaiapi-site.azureedge.net	rule/google/OpenAI.list	36	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openaicom.imgix.net	rule/ai/Copilot.list	52	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openaicom.imgix.net	rule/ai/OpenAI.list	37	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,openaicom.imgix.net	rule/google/OpenAI.list	37	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,segment.io	rule/ai/Copilot.list	53	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,segment.io	rule/ai/OpenAI.list	38	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,segment.io	rule/google/OpenAI.list	38	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,sentry.io	rule/ai/Copilot.list	54	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,sentry.io	rule/ai/OpenAI.list	39	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,sentry.io	rule/google/OpenAI.list	39	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,stripe.com	rule/ai/Copilot.list	55	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,stripe.com	rule/ai/OpenAI.list	40	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,stripe.com	rule/google/OpenAI.list	40	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,turn.livekit.cloud	rule/ai/Copilot.list	56	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,turn.livekit.cloud	rule/ai/OpenAI.list	41	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	DOMAIN-SUFFIX,turn.livekit.cloud	rule/google/OpenAI.list	41	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-ASN,20473,no-resolve	rule/ai/Copilot.list	61	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-ASN,20473,no-resolve	rule/ai/OpenAI.list	45	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-ASN,20473,no-resolve	rule/google/OpenAI.list	45	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-CIDR,24.199.123.28/32,no-resolve	rule/ai/Copilot.list	58	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-CIDR,24.199.123.28/32,no-resolve	rule/ai/OpenAI.list	43	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-CIDR,24.199.123.28/32,no-resolve	rule/google/OpenAI.list	43	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-CIDR,64.23.132.171/32,no-resolve	rule/ai/Copilot.list	59	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-CIDR,64.23.132.171/32,no-resolve	rule/ai/OpenAI.list	44	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+3	IP-CIDR,64.23.132.171/32,no-resolve	rule/google/OpenAI.list	44	rule/ai/Copilot.list | rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN,ai.google.dev	rule/ai/gemini.list	9	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN,ai.google.dev	rule/google/gemini.list	9	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN,alkalimakersuite-pa.clients6.google.com	rule/ai/gemini.list	10	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN,alkalimakersuite-pa.clients6.google.com	rule/google/gemini.list	10	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN,aod.itunes.apple.com	rule/apple/Apple Music.list	5	rule/apple/Apple Music.list | rule/domestic/Special.list
+2	DOMAIN,aod.itunes.apple.com	rule/domestic/Special.list	4	rule/apple/Apple Music.list | rule/domestic/Special.list
+2	DOMAIN,gspe1-ssl.ls.apple.com	rule/apple/Apple News.list	4	rule/apple/Apple News.list | rule/apple/apple_ai.list
+2	DOMAIN,gspe1-ssl.ls.apple.com	rule/apple/apple_ai.list	4	rule/apple/Apple News.list | rule/apple/apple_ai.list
+2	DOMAIN,makersuite.google.com	rule/ai/gemini.list	11	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN,makersuite.google.com	rule/google/gemini.list	11	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN,mvod.itunes.apple.com	rule/apple/Apple Music.list	9	rule/apple/Apple Music.list | rule/domestic/Special.list
+2	DOMAIN,mvod.itunes.apple.com	rule/domestic/Special.list	10	rule/apple/Apple Music.list | rule/domestic/Special.list
+2	DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net	rule/ai/OpenAI.list	14	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net	rule/google/OpenAI.list	14	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN-KEYWORD,colab	rule/ai/gemini.list	19	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-KEYWORD,colab	rule/google/gemini.list	19	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-KEYWORD,developerprofiles	rule/ai/gemini.list	20	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-KEYWORD,developerprofiles	rule/google/gemini.list	20	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-KEYWORD,generativelanguage	rule/ai/gemini.list	21	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-KEYWORD,generativelanguage	rule/google/gemini.list	21	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-KEYWORD,openai	rule/ai/OpenAI.list	42	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN-KEYWORD,openai	rule/google/OpenAI.list	42	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN-SUFFIX,2o7.net	rule/Proxy/Proxy.list	47	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,2o7.net	rule/adblock/AdBlock.list	397	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,ai.com	rule/ai/OpenAI.list	18	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN-SUFFIX,ai.com	rule/google/OpenAI.list	18	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN-SUFFIX,anthropic.com	rule/ai/Anthropic.list	9	rule/ai/Anthropic.list | rule/ai/Claude.list
+2	DOMAIN-SUFFIX,anthropic.com	rule/ai/Claude.list	9	rule/ai/Anthropic.list | rule/ai/Claude.list
+2	DOMAIN-SUFFIX,api.statsig.com	rule/ai/OpenAI.list	20	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN-SUFFIX,api.statsig.com	rule/google/OpenAI.list	20	rule/ai/OpenAI.list | rule/google/OpenAI.list
+2	DOMAIN-SUFFIX,apis.google.com	rule/ai/gemini.list	18	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,apis.google.com	rule/google/gemini.list	18	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,aspnetcdn.com	rule/Proxy/Proxy.list	94	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,aspnetcdn.com	rule/microsoft/Microsoft.list	328	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,azure.com	rule/Proxy/Proxy.list	99	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,azure.com	rule/microsoft/Microsoft.list	17	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,azureedge.net	rule/Proxy/Proxy.list	100	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,azureedge.net	rule/microsoft/Microsoft.list	33	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,azurewebsites.net	rule/Proxy/Proxy.list	101	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,azurewebsites.net	rule/microsoft/Microsoft.list	44	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bard.google.com	rule/ai/gemini.list	12	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,bard.google.com	rule/google/gemini.list	12	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,bing.com	rule/ai/Bing.list	7	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bing.com	rule/microsoft/Microsoft.list	68	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bing.com.cn	rule/ai/Bing.list	8	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bing.com.cn	rule/microsoft/Microsoft.list	69	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bing.net	rule/ai/Bing.list	9	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bing.net	rule/microsoft/Microsoft.list	70	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingads.com	rule/ai/Bing.list	10	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingads.com	rule/microsoft/Microsoft.list	74	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingagencyawards.com	rule/ai/Bing.list	11	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingagencyawards.com	rule/microsoft/Microsoft.list	75	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingapistatistics.com	rule/ai/Bing.list	12	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingapistatistics.com	rule/microsoft/Microsoft.list	77	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingsandbox.com	rule/ai/Bing.list	13	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingsandbox.com	rule/microsoft/Microsoft.list	85	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingvisualsearch.com	rule/ai/Bing.list	14	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingvisualsearch.com	rule/microsoft/Microsoft.list	88	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingworld.com	rule/ai/Bing.list	15	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,bingworld.com	rule/microsoft/Microsoft.list	89	rule/ai/Bing.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,chdbits.co	rule/domestic/Domestic.list	120	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,chdbits.co	rule/domestic/Special.list	113	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,claude.ai	rule/ai/Anthropic.list	10	rule/ai/Anthropic.list | rule/ai/Claude.list
+2	DOMAIN-SUFFIX,claude.ai	rule/ai/Claude.list	10	rule/ai/Anthropic.list | rule/ai/Claude.list
+2	DOMAIN-SUFFIX,cloudfront.net	rule/Proxy/Proxy.list	149	rule/Proxy/Proxy.list | rule/media/ViuTV.list
+2	DOMAIN-SUFFIX,cloudfront.net	rule/media/ViuTV.list	4	rule/Proxy/Proxy.list | rule/media/ViuTV.list
+2	DOMAIN-SUFFIX,deepmind.com	rule/ai/gemini.list	13	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,deepmind.com	rule/google/gemini.list	13	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,deepmind.google	rule/ai/gemini.list	14	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,deepmind.google	rule/google/gemini.list	14	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,edgesuite.net	rule/Proxy/Proxy.list	190	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,edgesuite.net	rule/microsoft/Microsoft.list	125	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,firebaseio.com	rule/Proxy/Proxy.list	206	rule/Proxy/Proxy.list | rule/media/ViuTV.list
+2	DOMAIN-SUFFIX,firebaseio.com	rule/media/ViuTV.list	6	rule/Proxy/Proxy.list | rule/media/ViuTV.list
+2	DOMAIN-SUFFIX,flurry.com	rule/Proxy/Proxy.list	212	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,flurry.com	rule/adblock/AdBlock.list	3429	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,fwmrm.net	rule/adblock/AdBlock.list	3479	rule/adblock/AdBlock.list | rule/media/Discovery Plus.list
+2	DOMAIN-SUFFIX,fwmrm.net	rule/media/Discovery Plus.list	6	rule/adblock/AdBlock.list | rule/media/Discovery Plus.list
+2	DOMAIN-SUFFIX,gemini.google.com	rule/ai/gemini.list	15	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,gemini.google.com	rule/google/gemini.list	15	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,generativeai.google	rule/ai/gemini.list	16	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,generativeai.google	rule/google/gemini.list	16	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,ghcr.io	rule/Github/Github.list	4	rule/Github/Github.list | rule/Proxy/Proxy.list
+2	DOMAIN-SUFFIX,ghcr.io	rule/Proxy/Proxy.list	230	rule/Github/Github.list | rule/Proxy/Proxy.list
+2	DOMAIN-SUFFIX,git.io	rule/Github/Github.list	5	rule/Github/Github.list | rule/Proxy/Proxy.list
+2	DOMAIN-SUFFIX,git.io	rule/Proxy/Proxy.list	231	rule/Github/Github.list | rule/Proxy/Proxy.list
+2	DOMAIN-SUFFIX,go.com	rule/Proxy/Proxy.list	238	rule/Proxy/Proxy.list | rule/media/ABC.list
+2	DOMAIN-SUFFIX,go.com	rule/media/ABC.list	3	rule/Proxy/Proxy.list | rule/media/ABC.list
+2	DOMAIN-SUFFIX,gvt1.com	rule/Proxy/Proxy.list	251	rule/Proxy/Proxy.list | rule/media/YouTube.list
+2	DOMAIN-SUFFIX,gvt1.com	rule/media/YouTube.list	6	rule/Proxy/Proxy.list | rule/media/YouTube.list
+2	DOMAIN-SUFFIX,hdchina.org	rule/domestic/Domestic.list	161	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,hdchina.org	rule/domestic/Special.list	118	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,helpshift.com	rule/Proxy/Proxy.list	252	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,helpshift.com	rule/microsoft/Microsoft.list	359	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,hockeyapp.net	rule/Proxy/Proxy.list	254	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,hockeyapp.net	rule/microsoft/Microsoft.list	360	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,iadsdk.apple.com	rule/adblock/AdBlock.list	3945	rule/adblock/AdBlock.list | rule/apple/apple_domain.list
+2	DOMAIN-SUFFIX,iadsdk.apple.com	rule/apple/apple_domain.list	63	rule/adblock/AdBlock.list | rule/apple/apple_domain.list
+2	DOMAIN-SUFFIX,icloud-content.com	rule/apple/Apple.list	12	rule/apple/Apple.list | rule/apple/iCloud.list
+2	DOMAIN-SUFFIX,icloud-content.com	rule/apple/iCloud.list	3	rule/apple/Apple.list | rule/apple/iCloud.list
+2	DOMAIN-SUFFIX,icloud.com	rule/apple/Apple.list	11	rule/apple/Apple.list | rule/apple/iCloud.list
+2	DOMAIN-SUFFIX,icloud.com	rule/apple/iCloud.list	6	rule/apple/Apple.list | rule/apple/iCloud.list
+2	DOMAIN-SUFFIX,iq.com	rule/media/IQ.list	1	rule/media/IQ.list | rule/media/IQIYI.list
+2	DOMAIN-SUFFIX,iq.com	rule/media/IQIYI.list	18	rule/media/IQ.list | rule/media/IQIYI.list
+2	DOMAIN-SUFFIX,jiathis.com	rule/adblock/AdBlock.list	4314	rule/adblock/AdBlock.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,jiathis.com	rule/domestic/Domestic.list	183	rule/adblock/AdBlock.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,js.revsci.net	rule/Proxy/Proxy.list	286	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,js.revsci.net	rule/adblock/AdBlock.list	4417	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,livefilestore.com	rule/Proxy/Proxy.list	307	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,livefilestore.com	rule/microsoft/Microsoft.list	227	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,localnetwork.uop	rule/Proxy/Proxy.list	309	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,localnetwork.uop	rule/adblock/AdBlock.list	4756	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,localytics.com	rule/adblock/AdBlock.list	4757	rule/adblock/AdBlock.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,localytics.com	rule/microsoft/Microsoft.list	391	rule/adblock/AdBlock.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,me.com	rule/apple/Apple.list	14	rule/apple/Apple.list | rule/apple/iCloud.list
+2	DOMAIN-SUFFIX,me.com	rule/apple/iCloud.list	41	rule/apple/Apple.list | rule/apple/iCloud.list
+2	DOMAIN-SUFFIX,msads.net	rule/adblock/AdBlock.list	5444	rule/adblock/AdBlock.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,msads.net	rule/microsoft/Microsoft.list	482	rule/adblock/AdBlock.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,msftconnecttest.com	rule/domestic/Special.list	28	rule/domestic/Special.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,msftconnecttest.com	rule/microsoft/Microsoft.list	495	rule/domestic/Special.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,music.apple.com	rule/apple/Apple Music.list	4	rule/apple/Apple Music.list | rule/apple/apple_domain.list
+2	DOMAIN-SUFFIX,music.apple.com	rule/apple/apple_domain.list	95	rule/apple/Apple Music.list | rule/apple/apple_domain.list
+2	DOMAIN-SUFFIX,nicovideo.jp	rule/Proxy/Proxy.list	340	rule/Proxy/Proxy.list | rule/media/Niconico.list
+2	DOMAIN-SUFFIX,nicovideo.jp	rule/media/Niconico.list	3	rule/Proxy/Proxy.list | rule/media/Niconico.list
+2	DOMAIN-SUFFIX,nimg.jp	rule/Proxy/Proxy.list	342	rule/Proxy/Proxy.list | rule/media/Niconico.list
+2	DOMAIN-SUFFIX,nimg.jp	rule/media/Niconico.list	8	rule/Proxy/Proxy.list | rule/media/Niconico.list
+2	DOMAIN-SUFFIX,notion.so	rule/Proxy/Proxy.list	346	rule/Proxy/Proxy.list | rule/ai/Notion.list
+2	DOMAIN-SUFFIX,notion.so	rule/ai/Notion.list	13	rule/Proxy/Proxy.list | rule/ai/Notion.list
+2	DOMAIN-SUFFIX,ourbits.club	rule/domestic/Domestic.list	218	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,ourbits.club	rule/domestic/Special.list	128	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,panoramio.com	rule/Proxy/Proxy.list	367	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,panoramio.com	rule/adblock/AdBlock.list	5781	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,passthepopcorn.me	rule/domestic/Domestic.list	220	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,passthepopcorn.me	rule/domestic/Special.list	129	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,privatehd.to	rule/domestic/Domestic.list	223	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,privatehd.to	rule/domestic/Special.list	130	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com	rule/ai/gemini.list	17	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com	rule/google/gemini.list	17	rule/ai/gemini.list | rule/google/gemini.list
+2	DOMAIN-SUFFIX,pubnub.com	rule/Proxy/Proxy.list	685	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,pubnub.com	rule/adblock/AdBlock.list	6025	rule/Proxy/Proxy.list | rule/adblock/AdBlock.list
+2	DOMAIN-SUFFIX,redacted.ch	rule/domestic/Domestic.list	241	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,redacted.ch	rule/domestic/Special.list	131	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,scdn.co	rule/Proxy/Proxy.list	686	rule/Proxy/Proxy.list | rule/media/Spotify.list
+2	DOMAIN-SUFFIX,scdn.co	rule/media/Spotify.list	5	rule/Proxy/Proxy.list | rule/media/Spotify.list
+2	DOMAIN-SUFFIX,sfx.ms	rule/Proxy/Proxy.list	416	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,sfx.ms	rule/microsoft/Microsoft.list	546	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,sndcdn.com	rule/Proxy/Proxy.list	433	rule/Proxy/Proxy.list | rule/media/Soundcloud.list
+2	DOMAIN-SUFFIX,sndcdn.com	rule/media/Soundcloud.list	4	rule/Proxy/Proxy.list | rule/media/Soundcloud.list
+2	DOMAIN-SUFFIX,soku.com	rule/domestic/Domestic.list	255	rule/domestic/Domestic.list | rule/media/Youku.list
+2	DOMAIN-SUFFIX,soku.com	rule/media/Youku.list	2	rule/domestic/Domestic.list | rule/media/Youku.list
+2	DOMAIN-SUFFIX,soundcloud.com	rule/Proxy/Proxy.list	435	rule/Proxy/Proxy.list | rule/media/Soundcloud.list
+2	DOMAIN-SUFFIX,soundcloud.com	rule/media/Soundcloud.list	6	rule/Proxy/Proxy.list | rule/media/Soundcloud.list
+2	DOMAIN-SUFFIX,symcd.com	rule/Proxy/Proxy.list	459	rule/Proxy/Proxy.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,symcd.com	rule/domestic/Domestic.list	260	rule/Proxy/Proxy.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,tenor.com	rule/Proxy/Proxy.list	689	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,tenor.com	rule/microsoft/Microsoft.list	559	rule/Proxy/Proxy.list | rule/microsoft/Microsoft.list
+2	DOMAIN-SUFFIX,totheglory.im	rule/domestic/Domestic.list	271	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,totheglory.im	rule/domestic/Special.list	135	rule/domestic/Domestic.list | rule/domestic/Special.list
+2	DOMAIN-SUFFIX,trello.com	rule/Proxy/Proxy.list	500	rule/Proxy/Proxy.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,trello.com	rule/domestic/Domestic.list	272	rule/Proxy/Proxy.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,uplynk.com	rule/media/Discovery Plus.list	10	rule/media/Discovery Plus.list | rule/media/Fox Now.list
+2	DOMAIN-SUFFIX,uplynk.com	rule/media/Fox Now.list	5	rule/media/Discovery Plus.list | rule/media/Fox Now.list
+2	DOMAIN-SUFFIX,viu.com	rule/Proxy/Proxy.list	565	rule/Proxy/Proxy.list | rule/media/ViuTV.list
+2	DOMAIN-SUFFIX,viu.com	rule/media/ViuTV.list	11	rule/Proxy/Proxy.list | rule/media/ViuTV.list
+2	DOMAIN-SUFFIX,xdrig.com	rule/adblock/AdBlock.list	8217	rule/adblock/AdBlock.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,xdrig.com	rule/domestic/Domestic.list	294	rule/adblock/AdBlock.list | rule/domestic/Domestic.list
+2	DOMAIN-SUFFIX,ykimg.com	rule/domestic/Domestic.list	311	rule/domestic/Domestic.list | rule/media/Youku.list
+2	DOMAIN-SUFFIX,ykimg.com	rule/media/Youku.list	4	rule/domestic/Domestic.list | rule/media/Youku.list

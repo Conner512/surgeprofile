@@ -353,6 +353,7 @@ DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,cmpay.com
 DOMAIN-SUFFIX,cnzz.com
+DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dianmi365.com
 DOMAIN-SUFFIX,dingtalk.com
@@ -366,6 +367,9 @@ DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,h3c.com
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,huaweicloud.com
+DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,isstrongcloud.com
 DOMAIN-SUFFIX,jdcloud-oss.com

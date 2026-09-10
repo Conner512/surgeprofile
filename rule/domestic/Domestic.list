@@ -78,10 +78,7 @@ DOMAIN-SUFFIX,123pan.com
 DOMAIN,api.123278.com
 DOMAIN,app.123795.com
 DOMAIN,statics.123957.com
-DOMAIN,123-184-221-232-v3.pd1.cjjd19.com
-DOMAIN,123-186-145-16-v3.pd1.cjjd19.com
-DOMAIN,1135-download-cdn.cjjd19.com
-DOMAIN,report.cjjd19.com
+DOMAIN-SUFFIX,cjjd19.com
 
 # > Umeng Mini Program Analytics
 DOMAIN,umini.shujupie.com

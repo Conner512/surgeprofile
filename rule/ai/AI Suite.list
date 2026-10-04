@@ -135,11 +135,7 @@ DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,zed.dev
 
 # > Muse (Meta)
-# 主站、登录及 API（muse.ai 及其子域）
 DOMAIN-SUFFIX,muse.ai
-# 个人运行环境（个人虚拟机域名及其子域）
 DOMAIN-SUFFIX,metaaivm.com
-# 隐私传输配置端点（精确域名）
 DOMAIN,meta-ohttp-config-prod.fastly-edge.com
-# 隐私传输中继端点（精确域名）
 DOMAIN,meta-ohttp-relay-prod.fastly-edge.com

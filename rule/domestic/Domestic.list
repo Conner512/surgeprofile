@@ -423,3 +423,6 @@ IP-CIDR,1.255.62.0/24,no-resolve
 # > CN
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,cn
+
+# > H3C
+DOMAIN-SUFFIX,h3cmall.com

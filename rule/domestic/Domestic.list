@@ -426,3 +426,6 @@ DOMAIN-SUFFIX,cn
 
 # > H3C
 DOMAIN-SUFFIX,h3cmall.com
+
+# > QWEN
+DOMAIN-SUFFIX,qianwenaiapi.com

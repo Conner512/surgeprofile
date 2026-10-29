@@ -429,10 +429,10 @@ DOMAIN-SUFFIX,h3cmall.com
 DOMAIN-SUFFIX,qianwenaiapi.com
 
 # > Domestic Services (iPhone Traffic Audit)
-DOMAIN,ctrip.com
+DOMAIN-SUFFIX,ctrip.com
 DOMAIN,aihuishou.com
 DOMAIN,1qianbao.com
-DOMAIN,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN,qunar.com
 DOMAIN,chinaums.com
 DOMAIN,csair.com
@@ -441,8 +441,8 @@ DOMAIN,pstatp.com
 DOMAIN,telefen.com
 
 # > Additional Domestic Services (Traffic Review)
-DOMAIN,pddpic.com
-DOMAIN,yqbimg.net
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,yqbimg.net
 DOMAIN,hunliji.com
 DOMAIN,mixcapp.com
 DOMAIN,chagee.com
@@ -450,3 +450,5 @@ DOMAIN,zpmc.com
 DOMAIN,alibaba-inc.com
 DOMAIN,okjike.com
 DOMAIN,leiting.com
+DOMAIN,apps.telefen.com
+DOMAIN,momall.telefen.com

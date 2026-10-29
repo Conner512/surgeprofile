@@ -429,3 +429,13 @@ DOMAIN-SUFFIX,h3cmall.com
 
 # > QWEN
 DOMAIN-SUFFIX,qianwenaiapi.com
+
+# > Domestic Services (iPhone Traffic Audit)
+DOMAIN,ctrip.com
+DOMAIN,aihuishou.com
+DOMAIN,1qianbao.com
+DOMAIN,pinduoduo.com
+DOMAIN,qunar.com
+DOMAIN,chinaums.com
+DOMAIN,csair.com
+DOMAIN,ly.com

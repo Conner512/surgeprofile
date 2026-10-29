@@ -34,7 +34,6 @@ DOMAIN,gateway.ai.cloudflare.com
 
 # > Copilot
 DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN,copilot.microsoft.com
 
 # > Cursor
@@ -69,7 +68,6 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
 # > Google Gemini
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com

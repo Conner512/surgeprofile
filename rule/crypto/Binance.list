@@ -3,3 +3,23 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,binance.vision
 DOMAIN-SUFFIX,binancefuture.com
+
+# Observed from Binance.app / Binance Helper traffic on macOS (2026-11-13).
+# Routing observations only; not a statement of domain ownership or trust.
+DOMAIN-SUFFIX,binance.click
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,bnappweb.blue
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bscdnweb.com
+DOMAIN-SUFFIX,mokexapp.tv
+DOMAIN-SUFFIX,nftstatic.com
+DOMAIN-SUFFIX,qa1fdg.net
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.info
+DOMAIN-SUFFIX,saasexch.io
+DOMAIN-SUFFIX,zhbnjppsssm.com
+
+# Exact CDN host only; do not route all cloudfront.net traffic as Binance.
+DOMAIN,d3sknckuh1o9tg.cloudfront.net
